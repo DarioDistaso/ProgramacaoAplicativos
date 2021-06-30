@@ -9,7 +9,7 @@
 # print("   *****")
 
 
-# Impressão do mesmo resultado mas usando uma linha de código e com o mesmo desenho da seta
+# Impressão do mesmo resultado mas usando 3 linhas de código e com o mesmo desenho da seta
 
 lista = ["      *", "     *  *", "    *    *", "   *      *", "  ***    ***", "     *   *","     *   *", "     *****"]
 
