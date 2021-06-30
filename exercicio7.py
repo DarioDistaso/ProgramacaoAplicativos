@@ -13,5 +13,5 @@
 
 lista = ["      *", "     *  *", "    *    *", "   *      *", "  ***    ***", "     *   *","     *   *", "     *****"]
 
-for i in lista:
-    print(i)
+for texto in lista:
+    print(texto)
