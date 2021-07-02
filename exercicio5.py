@@ -5,7 +5,7 @@ L = ["café", "fruta", "guardanapos", "água", "cerveja", "bolo", "refrigerante"
 
 def listar_compras(lista): # função que recebe a lista como parâmetro
     for i in range(0,len(lista)):
-        print(f'\nItem {i}: ', lista[i]) # a cada repetição imprime os itens da lista, enumerando-os
+        print(f'\nItem {i}: ', lista[i]) # a cada iteração imprime os itens da lista, enumerando-os
     print("\n")
 
 listar_compras(L) # chamada da função passando a lista L como parâmetro
